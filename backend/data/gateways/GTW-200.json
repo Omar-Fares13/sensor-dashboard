@@ -1,0 +1,1402 @@
+[
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 22:01:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 22:01:12.379000000",
+    "Temperature_CHIP-0.1°C": 318,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 16,
+      "value1": -12,
+      "value2": 1057
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 4,
+      "value1": 1
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 22:00:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 22:00:12.469000000",
+    "Temperature_CHIP-0.1°C": 318,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 20,
+      "value1": -6,
+      "value2": 1052
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 4,
+      "value1": 1
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:59:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:59:12.380000000",
+    "Temperature_CHIP-0.1°C": 318,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -9,
+      "value2": 1054
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 1
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:58:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:58:12.382000000",
+    "Temperature_CHIP-0.1°C": 318,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 20,
+      "value1": -6,
+      "value2": 1056
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 1
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:57:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:57:12.382000000",
+    "Temperature_CHIP-0.1°C": 318,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -5,
+      "value2": 1053
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 1
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:56:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:56:12.388000000",
+    "Temperature_CHIP-0.1°C": 318,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 19,
+      "value1": -10,
+      "value2": 1053
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 1
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:55:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:55:12.396000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 15,
+      "value1": -6,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 1
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:54:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:54:12.396000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 14,
+      "value1": -8,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 1
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:53:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:53:12.398000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 19,
+      "value1": -8,
+      "value2": 1050
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:52:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:52:12.397000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 11,
+      "value1": -10,
+      "value2": 1056
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:51:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:51:12.402000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 15,
+      "value1": -9,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:50:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:50:12.403000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 20,
+      "value1": -10,
+      "value2": 1056
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:49:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:49:12.404000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 18,
+      "value1": -7,
+      "value2": 1053
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 5,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:48:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:48:12.405000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 19,
+      "value1": -6,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:47:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:47:12.405000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 18,
+      "value1": -11,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:46:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:46:12.409000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 18,
+      "value1": -11,
+      "value2": 1059
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:45:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:45:12.410000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -9,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:44:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:44:12.417000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 11,
+      "value1": -8,
+      "value2": 1059
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:43:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:43:12.417000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 16,
+      "value1": -9,
+      "value2": 1059
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:42:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:42:12.418000000",
+    "Temperature_CHIP-0.1°C": 319,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 22,
+      "value1": -7,
+      "value2": 1057
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:41:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:41:12.418000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 16,
+      "value1": -11,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:40:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:40:12.430000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 16,
+      "value1": -5,
+      "value2": 1059
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:39:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:39:12.431000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -8,
+      "value2": 1062
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:38:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:38:12.433000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -8,
+      "value2": 1058
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:37:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:37:12.435000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 11,
+      "value1": -10,
+      "value2": 1054
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 6,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:36:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:36:12.437000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 14,
+      "value1": -10,
+      "value2": 1056
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 7,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:35:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:35:12.440000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 13,
+      "value1": -10,
+      "value2": 1059
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 7,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:34:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:34:12.442000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 4,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 16,
+      "value1": -12,
+      "value2": 1056
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 7,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:33:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:33:12.440000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 18,
+      "value1": -10,
+      "value2": 1058
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 7,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:32:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:32:12.441000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 19,
+      "value1": -10,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 7,
+      "value1": 2
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:31:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:31:12.444000000",
+    "Temperature_CHIP-0.1°C": 320,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -7,
+      "value2": 1057
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 7,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:30:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:30:12.444000000",
+    "Temperature_CHIP-0.1°C": 321,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 15,
+      "value1": -7,
+      "value2": 1058
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 8,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:29:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:29:12.467000000",
+    "Temperature_CHIP-0.1°C": 321,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 18,
+      "value1": -11,
+      "value2": 1052
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 8,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:28:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:28:12.787000000",
+    "Temperature_CHIP-0.1°C": 321,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 18,
+      "value1": -9,
+      "value2": 1057
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 8,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:27:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:27:12.509000000",
+    "Temperature_CHIP-0.1°C": 321,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 16,
+      "value1": -8,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 8,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:26:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:26:12.520000000",
+    "Temperature_CHIP-0.1°C": 321,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 12,
+      "value1": -8,
+      "value2": 1060
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 8,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:25:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:25:12.513000000",
+    "Temperature_CHIP-0.1°C": 321,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 18,
+      "value1": -7,
+      "value2": 1058
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 8,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:24:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:24:12.509000000",
+    "Temperature_CHIP-0.1°C": 321,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 20,
+      "value1": -9,
+      "value2": 1057
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 8,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:23:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:23:12.485000000",
+    "Temperature_CHIP-0.1°C": 322,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 18,
+      "value1": -8,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 8,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:22:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:22:12.518000000",
+    "Temperature_CHIP-0.1°C": 322,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 11,
+      "value1": -5,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 8,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:21:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:21:12.465000000",
+    "Temperature_CHIP-0.1°C": 322,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -9,
+      "value2": 1060
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 9,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:20:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:20:12.477000000",
+    "Temperature_CHIP-0.1°C": 322,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 22,
+      "value1": -8,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 9,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:19:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:19:12.764000000",
+    "Temperature_CHIP-0.1°C": 322,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -10,
+      "value2": 1058
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 9,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:18:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:18:12.529000000",
+    "Temperature_CHIP-0.1°C": 322,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -8,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 9,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:17:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:17:12.517000000",
+    "Temperature_CHIP-0.1°C": 322,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 13,
+      "value1": -9,
+      "value2": 1053
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 9,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:16:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:16:12.533000000",
+    "Temperature_CHIP-0.1°C": 322,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 13,
+      "value1": -7,
+      "value2": 1054
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 9,
+      "value1": 3
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:15:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:15:12.541000000",
+    "Temperature_CHIP-0.1°C": 323,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 19,
+      "value1": -4,
+      "value2": 1057
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 10,
+      "value1": 4
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:14:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:14:12.511000000",
+    "Temperature_CHIP-0.1°C": 323,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 19,
+      "value1": -9,
+      "value2": 1055
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 10,
+      "value1": 4
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:13:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:13:12.559000000",
+    "Temperature_CHIP-0.1°C": 323,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 22,
+      "value1": 0,
+      "value2": 1056
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 10,
+      "value1": 4
+    }
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-09 21:12:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000223",
+    "MacAddress": "2C:A7:74:95:06:AE",
+    "NumberOfAttributes": 7,
+    "GroupID": "200",
+    "measure_name": "2C-A7-74-95-06-AE",
+    "time": "2026-02-09 21:12:12.496000000",
+    "Temperature_CHIP-0.1°C": 323,
+    "Humidity-RH%": 3,
+    "Voltage-mV": {
+      "value0": 0,
+      "value1": 1
+    },
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -8,
+      "value2": 1058
+    },
+    "Firmware_Version": "0x139D",
+    "Light-%": {
+      "value0": 11,
+      "value1": 4
+    }
+  }
+]

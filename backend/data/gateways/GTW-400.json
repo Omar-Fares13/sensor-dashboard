@@ -1,0 +1,2152 @@
+[
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 19:13:05.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 19:14:05.346000000",
+    "Temperature_CHIP-0.1°C": -179,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 50,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 56,
+      "value1": -81,
+      "value2": 1006
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3822,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2134
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 19:02:14.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 19:02:16.770000000",
+    "Temperature_CHIP-0.1°C": -180,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 46,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": -9,
+      "value1": -153,
+      "value2": 1080
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 4,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 19:01:14.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 19:01:16.791000000",
+    "Temperature_CHIP-0.1°C": -180,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 46,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 57,
+      "value1": -79,
+      "value2": 993
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 4,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 19:00:14.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 19:00:16.771000000",
+    "Temperature_CHIP-0.1°C": -180,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 46,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 31,
+      "value1": -131,
+      "value2": 1067
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:59:13.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:59:15.832000000",
+    "Temperature_CHIP-0.1°C": -179,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 46,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 64,
+      "value1": -87,
+      "value2": 1008
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 4,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:58:13.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:58:15.771000000",
+    "Temperature_CHIP-0.1°C": -178,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 46,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 61,
+      "value1": -82,
+      "value2": 978
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:57:13.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:57:15.771000000",
+    "Temperature_CHIP-0.1°C": -177,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 46,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 35,
+      "value1": -95,
+      "value2": 1043
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 4,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:56:13.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:19.794000000",
+    "Temperature_CHIP-0.1°C": -176,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 50,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 10,
+      "value1": -122,
+      "value2": 1030
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 4,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3841,
+    "BLE_Buffer_Status-%": 73,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 26711
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:55:13.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:19.645000000",
+    "Temperature_CHIP-0.1°C": -174,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 46,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": -35,
+      "value1": -150,
+      "value2": 1156
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 74,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:54:13.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:19.505000000",
+    "Temperature_CHIP-0.1°C": -173,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 46,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 9,
+      "value1": -154,
+      "value2": 1074
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 74,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:53:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:19.360000000",
+    "Temperature_CHIP-0.1°C": -171,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 46,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 71,
+      "value1": -84,
+      "value2": 946
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 74,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:52:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:19.227000000",
+    "Temperature_CHIP-0.1°C": -169,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 46,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 15,
+      "value1": -187,
+      "value2": 1106
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 75,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:51:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:19.087000000",
+    "Temperature_CHIP-0.1°C": -168,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 45,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 5,
+      "value1": -145,
+      "value2": 1033
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 75,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:50:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:18.934000000",
+    "Temperature_CHIP-0.1°C": -166,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 45,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -141,
+      "value2": 1051
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 75,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:49:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:18.798000000",
+    "Temperature_CHIP-0.1°C": -164,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 45,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": -12,
+      "value1": -180,
+      "value2": 1105
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3835,
+    "BLE_Buffer_Status-%": 75,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:48:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:18.668000000",
+    "Temperature_CHIP-0.1°C": -162,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 44,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 4,
+      "value1": -142,
+      "value2": 1071
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 76,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:47:12.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:18.512000000",
+    "Temperature_CHIP-0.1°C": -160,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 44,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 47,
+      "value1": -85,
+      "value2": 1020
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 76,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:46:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:18.362000000",
+    "Temperature_CHIP-0.1°C": -157,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 43,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 44,
+      "value1": -125,
+      "value2": 1010
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 76,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:45:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:18.236000000",
+    "Temperature_CHIP-0.1°C": -155,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 43,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 56,
+      "value1": -93,
+      "value2": 986
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 77,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:44:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:18.091000000",
+    "Temperature_CHIP-0.1°C": -153,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 42,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 4,
+      "value1": -151,
+      "value2": 1038
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 77,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:43:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:17.951000000",
+    "Temperature_CHIP-0.1°C": -151,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 41,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 33,
+      "value1": -72,
+      "value2": 1012
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 77,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:42:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:17.827000000",
+    "Temperature_CHIP-0.1°C": -148,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 40,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": -9,
+      "value1": -175,
+      "value2": 1073
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 77,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:41:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:17.680000000",
+    "Temperature_CHIP-0.1°C": -146,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 39,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 56,
+      "value1": -58,
+      "value2": 964
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 78,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:40:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:17.548000000",
+    "Temperature_CHIP-0.1°C": -144,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 38,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 11,
+      "value1": -165,
+      "value2": 1061
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 78,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:39:11.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:17.384000000",
+    "Temperature_CHIP-0.1°C": -143,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 36,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 49,
+      "value1": -118,
+      "value2": 995
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 78,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:38:10.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:17.257000000",
+    "Temperature_CHIP-0.1°C": -141,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 35,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 15,
+      "value1": -118,
+      "value2": 1025
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3832,
+    "BLE_Buffer_Status-%": 79,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:37:10.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:17.110000000",
+    "Temperature_CHIP-0.1°C": -140,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 33,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 3,
+      "value1": -162,
+      "value2": 1091
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 79,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:36:10.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:16.987000000",
+    "Temperature_CHIP-0.1°C": -140,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 32,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": -27,
+      "value1": -164,
+      "value2": 1094
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3840,
+    "BLE_Buffer_Status-%": 79,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:35:10.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:16.850000000",
+    "Temperature_CHIP-0.1°C": -141,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 31,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 1,
+      "value1": -141,
+      "value2": 1080
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 79,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:34:10.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:16.689000000",
+    "Temperature_CHIP-0.1°C": -143,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 31,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 50,
+      "value1": -74,
+      "value2": 1018
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3839,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:33:10.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:56:16.612000000",
+    "Temperature_CHIP-0.1°C": -146,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 31,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 51,
+      "value1": -84,
+      "value2": 1003
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3836,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:32:09.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:32:39.945000000",
+    "Temperature_CHIP-0.1°C": -151,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 56,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 29,
+      "value1": -98,
+      "value2": 1029
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3815,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2053
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:31:09.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:32:39.755000000",
+    "Temperature_CHIP-0.1°C": -156,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 52,
+    "Voltage-mV": {
+      "value0": 25,
+      "value1": 942
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 53,
+      "value1": -51,
+      "value2": 1047
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3837,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2135
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:30:09.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:30:39.903000000",
+    "Temperature_CHIP-0.1°C": -160,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 58,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 25,
+      "value1": -71,
+      "value2": 1047
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3824,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 2053
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:29:09.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:30:39.794000000",
+    "Temperature_CHIP-0.1°C": -162,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 39,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 11,
+      "value1": -117,
+      "value2": 1045
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3830,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 16471
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:28:09.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:28:11.847000000",
+    "Temperature_CHIP-0.1°C": -162,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 48,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 48,
+      "value1": -93,
+      "value2": 1051
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 3,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3845,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 16471
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:27:09.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:27:09.999000000",
+    "Temperature_CHIP-0.1°C": -163,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 42,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 54,
+      "value1": -94,
+      "value2": 1075
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 3,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3845,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:26:09.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:26:11.836000000",
+    "Temperature_CHIP-0.1°C": -164,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 36,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 11,
+      "value1": -87,
+      "value2": 1017
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3844,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:25:08.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:25:10.840000000",
+    "Temperature_CHIP-0.1°C": -164,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 36,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 17,
+      "value1": -78,
+      "value2": 1056
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3843,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:24:08.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:24:10.829000000",
+    "Temperature_CHIP-0.1°C": -164,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 36,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 13,
+      "value1": -91,
+      "value2": 1038
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3844,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:23:08.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:23:10.838000000",
+    "Temperature_CHIP-0.1°C": -164,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 36,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 65,
+      "value1": -89,
+      "value2": 1012
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3844,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:22:08.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:22:10.850000000",
+    "Temperature_CHIP-0.1°C": -164,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 36,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 41,
+      "value1": -86,
+      "value2": 1043
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3845,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:21:08.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:21:10.828000000",
+    "Temperature_CHIP-0.1°C": -164,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 37,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 6,
+      "value1": -22,
+      "value2": 1022
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3844,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:20:07.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:20:09.849000000",
+    "Temperature_CHIP-0.1°C": -164,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 37,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 24,
+      "value1": -78,
+      "value2": 1021
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 3,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3844,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:19:07.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:19:09.825000000",
+    "Temperature_CHIP-0.1°C": -164,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 37,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 0,
+      "value1": -75,
+      "value2": 990
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 3,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3844,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:18:07.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:18:09.840000000",
+    "Temperature_CHIP-0.1°C": -164,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 37,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 37,
+      "value1": -39,
+      "value2": 1052
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3844,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:17:07.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:17:09.821000000",
+    "Temperature_CHIP-0.1°C": -163,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 38,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 58,
+      "value1": -48,
+      "value2": 1002
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 4,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3844,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:16:07.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:16:09.829000000",
+    "Temperature_CHIP-0.1°C": -163,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 38,
+    "Voltage-mV": {
+      "value0": 65533,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 18,
+      "value1": -45,
+      "value2": 998
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 0,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3844,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:15:07.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:15:09.837000000",
+    "Temperature_CHIP-0.1°C": -162,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 38,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": 28,
+      "value1": 2,
+      "value2": 1020
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 4,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3844,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  },
+  {
+    "Received_Signal_Quality": -1,
+    "SignalTimestamp": "2026-02-02 18:14:06.000000",
+    "Prefix": "GTW",
+    "GatewayID": "000030",
+    "MacAddress": "90:7B:C6:30:7C:24",
+    "NumberOfAttributes": 16,
+    "GroupID": "400",
+    "measure_name": "90-7B-C6-30-7C-24",
+    "time": "2026-02-02 18:14:08.825000000",
+    "Temperature_CHIP-0.1°C": -162,
+    "Variant": {
+      "value0": 1,
+      "value1": 1
+    },
+    "Humidity-RH%": 39,
+    "Voltage-mV": {
+      "value0": 65534,
+      "value1": 65533
+    },
+    "Hardware_Version": 21,
+    "Fault_Status": 0,
+    "Acceleration-mG": {
+      "value0": -9,
+      "value1": -87,
+      "value2": 1058
+    },
+    "Firmware_Version": {
+      "value0": "0x4007",
+      "value1": "0x1004"
+    },
+    "Temperature_RTD-0.1°C": -9001,
+    "Current-uA": {
+      "value0": 0,
+      "value1": 0
+    },
+    "BAT_Charging_Status": 4,
+    "Battery_ID": "320FFFFF",
+    "Battery_Voltage-mV": 3845,
+    "BLE_Buffer_Status-%": 80,
+    "Charge_Percentage-%": 62,
+    "GTW_Host_Status": 18519
+  }
+]

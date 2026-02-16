@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Environment variables (secrets)
+.env
+
+# Expo
+mobile/.expo/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
