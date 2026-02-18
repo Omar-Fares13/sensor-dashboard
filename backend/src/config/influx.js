@@ -1,8 +1,5 @@
 const { InfluxDB } = require('@influxdata/influxdb-client');
 
-console.log('--- DEBUG: Creating InfluxDB client ---');
-console.log('URL:', process.env.INFLUX_URL);
-console.log('ORG:', process.env.INFLUX_ORG);
 
 const influxClient = new InfluxDB({
   url: process.env.INFLUX_URL,

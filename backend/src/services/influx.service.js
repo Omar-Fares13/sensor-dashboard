@@ -47,6 +47,10 @@ async function getAllDevices() {
 
   const rows = await executeQuery(query);
 
+  if(rows){
+    console.log('success in query')
+  }
+
   // Step 2: Group results by device MAC address
   const devicesMap = {};
 

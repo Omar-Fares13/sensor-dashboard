@@ -9,7 +9,7 @@
 import { DevicesResponse, DeviceDetailResponse, FieldsResponse, HistoryResponse } from '../types/device';
 
 
-const API_BASE_URL = 'http://10.156.5.148:5000/api';
+const API_BASE_URL = 'http://192.168.1.254:5000/api';
 
 /**
  * Generic fetch wrapper with error handling.
